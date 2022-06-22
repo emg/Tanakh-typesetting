@@ -1,0 +1,3 @@
+[submodule "text/morphhb"]
+	path = text/morphhb
+	url = https://github.com/openscriptures/morphhb.git
